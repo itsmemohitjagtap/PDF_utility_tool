@@ -11,3 +11,6 @@
 # Required libraries:
 PyMuPDF==1.23.7       # For PDF compression and manipulation
 Pillow==10.3.0         # For image preview and handling (if used)
+
+# Download this tool 
+GhostScript : https://www.ghostscript.com/download/gsdnld.html
