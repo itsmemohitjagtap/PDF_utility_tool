@@ -1,0 +1,13 @@
+# Requirements for PDFCompressor Tool by Mohit Jagtap
+# Make sure Python is installed (Python 3.10+ recommended)
+
+# =====================
+# How to install:
+# 1. Open Command Prompt in this project folder
+# 2. Run the command below to install all dependencies:
+#    pip install -r requirements.txt
+# =====================
+
+# Required libraries:
+PyMuPDF==1.23.7       # For PDF compression and manipulation
+Pillow==10.3.0         # For image preview and handling (if used)
