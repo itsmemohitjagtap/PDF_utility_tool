@@ -55,14 +55,6 @@ If you downloaded the installer:
 - 🌐 [Portfolio Website](https://nix-mohit-jagtap.github.io/_/)
 - 💻 [GitHub](https://github.com/itsmemohitjagtap)
 
----
-
-## 🚀 Future Updates
-
-Planned features:
-- Batch image compression
-- Drag & drop file support
-- Dark mode UI
 
 ---
 
